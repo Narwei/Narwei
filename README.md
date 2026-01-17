@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="1536" height="1024" alt="47400e8d-5472-4b20-9c63-e9da947c3800" src="https://github.com/user-attachments/assets/6cabfd1a-4c5b-4bfe-be89-124f40d941e4" />
+<img width="1536" height="574" alt="Coding with the bears" src="https://github.com/user-attachments/assets/1443f7a7-a81d-4295-89c8-c9ccc9d39330" />
 
 <!--
 **Narwei/Narwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
