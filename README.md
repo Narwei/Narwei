@@ -49,11 +49,11 @@
 ### 🛠️ My Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-87CEFA?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-B19CD9?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-ADD8E6?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-ff499e?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-d264b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-a480cf?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-779be7?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-49b6ff?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 <br />
