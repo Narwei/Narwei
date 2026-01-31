@@ -41,8 +41,6 @@
       💬 <b>Ask me about:</b> Frontend, CSS art, & Cats<br>
       ⚡ <b>Fun fact:</b> I can focus better when it's raining
     </td>
-    <td valign="center">
-      </td>
   </tr>
 </table>
 
