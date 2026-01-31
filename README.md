@@ -15,16 +15,6 @@
 
   <br />
 
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:tuemail@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-
 </div>
 
 <br />
@@ -38,7 +28,7 @@
     <td valign="center">
       🌱 <b>Currently learning:</b> Nuxt.js & UI Design<br>
       🔭 <b>Working on:</b> A cute productivity app<br>
-      💬 <b>Ask me about:</b> Frontend, CSS art, & Cats<br>
+      💬 <b>Ask me about:</b> Frontend, CSS art, & Gaming<br>
       ⚡ <b>Fun fact:</b> I can focus better when it's raining
     </td>
   </tr>
