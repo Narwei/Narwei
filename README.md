@@ -1,19 +1,70 @@
-## Hi there 👋
+<div align="center">
 
-<img width="1536" height="574" alt="Coding with the bears" src="https://github.com/user-attachments/assets/1443f7a7-a81d-4295-89c8-c9ccc9d39330" />
+  <img width="100%" alt="NarweiBears" src="https://github.com/user-attachments/assets/71c58c3e-e82d-4dca-abb1-d3c9dc5a02e6" />
 
-<!--
-**Narwei/Narwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br />
+  <br />
 
-Here are some ideas to get you started:
+  # Hi there! I'm Narwei ☁️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate
- on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Developer | Dreamer | Creator**
+
+  <br />
+
+  > ❝ I build things for the web and love making code look as good as it works. ❞
+
+  <br />
+
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:tuemail@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+
+</div>
+
+<br />
+
+---
+
+### 🌷 A little about me
+
+<table>
+  <tr>
+    <td valign="center">
+      🌱 <b>Currently learning:</b> Nuxt.js & UI Design<br>
+      🔭 <b>Working on:</b> A cute productivity app<br>
+      💬 <b>Ask me about:</b> Frontend, CSS art, & Cats<br>
+      ⚡ <b>Fun fact:</b> I can focus better when it's raining
+    </td>
+    <td valign="center">
+      </td>
+  </tr>
+</table>
+
+<br />
+
+### 🛠️ My Tech Stack
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-87CEFA?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-ADD8E6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-98FB98?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-D8BFD8?style=for-the-badge&logo=figma&logoColor=white" />
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <sub>Made with 💜 by Narwei</sub>
+</div>
