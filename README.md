@@ -39,11 +39,11 @@
 ### 🛠️ My Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-ff499e?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-d264b6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-a480cf?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-779be7?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-49b6ff?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img href="https://www.w3schools.com/html/default.asp" src="https://img.shields.io/badge/HTML5-ff499e?style=for-the-badge&logo=html5&logoColor=white" />
+  <img href="https://www.w3schools.com/css/default.asp" src="https://img.shields.io/badge/CSS3-d264b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img href="https://www.w3schools.com/js/default.asp" src="https://img.shields.io/badge/JavaScript-a480cf?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img href="https://www.w3schools.com/php/default.asp" src="https://img.shields.io/badge/PHP-779be7?style=for-the-badge&logo=php&logoColor=white" />
+  <img href="https://www.w3schools.com/mysql/default.asp" src="https://img.shields.io/badge/MySQL-49b6ff?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 <br />
