@@ -11,7 +11,7 @@
 
   <br />
 
-  > ❝ I build things for the web and love making code look as good as it works. ❞
+  > ❝ Soft code, smart data, and a little bit of AI spark ✨ ❞
 
   <br />
 
@@ -26,10 +26,10 @@
 <table>
   <tr>
     <td valign="center">
-      🌱 <b>Currently learning:</b> Nuxt.js & UI Design<br>
-      🔭 <b>Working on:</b> A cute productivity app<br>
-      💬 <b>Ask me about:</b> Frontend, CSS art, & Gaming<br>
-      ⚡ <b>Fun fact:</b> I can focus better when it's raining
+      🌱 <b>Currently learning:</b> Diving deep into Data Science & Machine Learning with Python 🐍<br>
+      🔭 <b>Working on:</b> Turning raw data into intelligent systems and AI-powered projects<br>
+      💬 <b>Ask me about:</b> Python, data analysis & building smart solutions<br>
+      ⚡ <b>Fun fact:</b> I see patterns where others see chaos… data always tells a story 📊✨
     </td>
   </tr>
 </table>
@@ -44,6 +44,7 @@
   <a href="https://www.w3schools.com/js/default.asp"><img  src="https://img.shields.io/badge/JavaScript-a480cf?style=for-the-badge&logo=javascript&logoColor=white" /></a>
   <a href="https://www.w3schools.com/php/default.asp"><img  src="https://img.shields.io/badge/PHP-779be7?style=for-the-badge&logo=php&logoColor=white" /></a>
   <a href="https://www.w3schools.com/mysql/default.asp"><img  src="https://img.shields.io/badge/MySQL-49b6ff?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.w3schools.com/python/default.asp"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 
 </div>
 
