@@ -7,7 +7,7 @@
 
   # Hi there! I'm Narwei ☁️
 
-  **Developer | Dreamer | Creator**
+  **Junior Software Developer | DAW Student | AI Enthusiast**
 
   <br />
 
@@ -26,10 +26,10 @@
 <table>
   <tr>
     <td valign="center">
-      🌱 <b>Currently learning:</b> Diving deep into Data Science & Machine Learning with Python 🐍<br>
-      🔭 <b>Working on:</b> Turning raw data into intelligent systems and AI-powered projects<br>
-      💬 <b>Ask me about:</b> Python, data analysis & building smart solutions<br>
-      ⚡ <b>Fun fact:</b> I see patterns where others see chaos… data always tells a story 📊✨
+      🌱 <b>Currently learning:</b> Diving deep into Advanced Python, Web Development and Artificial Intelligence 🐍<br>
+      🔭 <b>Working on:</b> Web applications, automation tools and personal projects<br>
+      💬 <b>Interested in:</b> Backend Development, Machine Learning and Process Automation<br>
+      ⚡ <b>Experience:</b> AI & Software Development Intern at Renault Group 📊✨
     </td>
   </tr>
 </table>
