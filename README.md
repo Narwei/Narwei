@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td valign="center">
-      🌱 <b>Currently learning:</b> Diving deep into Advanced Python, Web Development and Artificial Intelligence 🐍<br>
+      🌱 <b>Currently learning:</b> Advanced Python, Web Development and Artificial Intelligence 🐍<br>
       🔭 <b>Working on:</b> Web applications, automation tools and personal projects<br>
       💬 <b>Interested in:</b> Backend Development, Machine Learning and Process Automation<br>
       ⚡ <b>Experience:</b> AI & Software Development Intern at Renault Group 📊✨
